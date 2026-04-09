@@ -67,3 +67,4 @@ npx expo start
 ### Comments
 
 ![Comments](./screenshots/comments.png)
+"# EXAM_TikTok_UI_23810310321_Nguyen_Van_Trung" 
